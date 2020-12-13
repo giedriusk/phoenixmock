@@ -1,0 +1,176 @@
+{
+  "ColorInfo": {
+    "Translations": {
+      "ColorInformation": "Informacija apie spalvą",
+      "ActionsText": "Pasirinkti",
+      "ShowFormula": "Rodyti formulę",
+      "ShowTwoTone": "Show two tone colours",
+      "ColorName": "Spalvos pavadinimas",
+      "CompanyName": "Įmonė",
+      "Region": "Šalis",
+      "Model": "Modelis",
+      "Year": "Metai",
+      "Applications": "Remonto vieta",
+      "Codes": "Kodas",
+      "Messages": "Informacija"
+    },
+    "CompanyRegions": {
+      "RegionNames": [
+        {
+          "Name": "BMW",
+          "Region": "GLB"
+        },
+        {
+          "Name": "宝马",
+          "Region": "CHN"
+        }
+      ],
+      "SelectedRegion": {
+        "Name": "BMW",
+        "Region": "GLB"
+      }
+    },
+    "ColorTable": {
+      "SelectedColor": {
+        "Name": "INKAORANGE",
+        "Region": "GLOBAL"
+      },
+      "Names": [
+        {
+          "Name": "INKAORANGE",
+          "Region": "GLOBAL"
+        },
+        {
+          "Name": "INKA ORANGE",
+          "Region": "AMERICAS"
+        }
+      ]
+    },
+    "StockTable": {
+      "SelectedCode": null,
+      "Codes": [
+        {
+          "ColorCode": "022",
+          "Message": null
+        },
+        {
+          "ColorCode": "202",
+          "Message": null
+        }
+      ]
+    },
+    "ApplicationsTable": {
+      "SelectedApplication": null,
+      "Applications": [
+        {
+          "ApplicationCode": "Išorė"
+        }
+      ]
+    },
+    "UsagesTable": {
+      "SelectedUsage": null,
+      "Usages": [
+        {
+          "Model": "2002",
+          "Region": "EUROPE",
+          "Year": 0
+        },
+        {
+          "Model": "2002",
+          "Region": "AMERICAS",
+          "Year": 1972
+        },
+        {
+          "Model": "2002",
+          "Region": "AMERICAS",
+          "Year": 1973
+        },
+        {
+          "Model": "2002",
+          "Region": "AMERICAS",
+          "Year": 1974
+        },
+        {
+          "Model": "2002",
+          "Region": "AMERICAS",
+          "Year": 1975
+        },
+        {
+          "Model": "2002",
+          "Region": "AMERICAS",
+          "Year": 1976
+        },
+        {
+          "Model": "3 SERIES",
+          "Region": "AMERICAS",
+          "Year": 1972
+        },
+        {
+          "Model": "3 SERIES",
+          "Region": "AMERICAS",
+          "Year": 1973
+        },
+        {
+          "Model": "3 SERIES",
+          "Region": "AMERICAS",
+          "Year": 1974
+        },
+        {
+          "Model": "3 SERIES",
+          "Region": "AMERICAS",
+          "Year": 1975
+        },
+        {
+          "Model": "3 SERIES",
+          "Region": "AMERICAS",
+          "Year": 1976
+        },
+        {
+          "Model": "5 SERIES",
+          "Region": "AMERICAS",
+          "Year": 1972
+        },
+        {
+          "Model": "5 SERIES",
+          "Region": "AMERICAS",
+          "Year": 1973
+        },
+        {
+          "Model": "5 SERIES",
+          "Region": "AMERICAS",
+          "Year": 1974
+        },
+        {
+          "Model": "5 SERIES",
+          "Region": "AMERICAS",
+          "Year": 1975
+        },
+        {
+          "Model": "5 SERIES",
+          "Region": "AMERICAS",
+          "Year": 1976
+        },
+        {
+          "Model": "5 SERIES",
+          "Region": "INDONESIA",
+          "Year": 2007
+        },
+        {
+          "Model": "1 SERIES",
+          "Region": "EUROPE",
+          "Year": 2010
+        },
+        {
+          "Model": "1ER COUPE",
+          "Region": "EUROPE",
+          "Year": 2010
+        }
+      ]
+    }
+  },
+  "ChipImage": "/Chip.mvc/GetForColor?colorId=306475\u0026isPersonal=False\u0026v=2020-12-05\u0026customID=91b51fbe-630b-4257-8fcc-5edc386e6e63",
+  "Id": "306475",
+  "CustomId": "91b51fbe-630b-4257-8fcc-5edc386e6e63",
+  "Type": "Formula",
+  "IsPersonal": false
+}
